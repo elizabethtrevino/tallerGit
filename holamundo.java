@@ -18,7 +18,7 @@ class Hola{
                break;
                
                case 2:
-               // Mandar llamar metodo de multiplicar
+               // Mandar llamar metodo de sumar
                break;
             }
         }
